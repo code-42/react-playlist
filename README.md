@@ -4,8 +4,9 @@ https://www.youtube.com/watch?v=f7TmMBMLJ90&t=0s&list=PL4cUxeGkcC9i0_2FF-WhtRIfI
 Having a difficult time getting React and Webpack configured correctly by following this video tutorial closely, so I compiled the notes below to help others overcome the obstacles I encountered.
 
 First, take a look at the author's 
-![github repo](src/app/images/react-playlist-last-commit.png "react-playlist github repo last commit")
+[github repo](https://github.com/iamshaunjp/react-playlist)
 last commit date - Oct 6, 2016.  Hmmm, a lot has changed since then.  
+![github repo](src/app/images/react-playlist-last-commit.png "react-playlist github repo last commit")
 
 Step-by-step, here's how I got it to work:
 1. git clone git@github.com:iamshaunjp/react-playlist.git
