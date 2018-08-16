@@ -1,3 +1,5 @@
+![Assignment - Development using React](src/app/images/ReactAssingment.png "Assignment - Development using React screenshot")
+
 # react-playlist tutorial video 2 - Installing React (with Webpack)
 https://www.youtube.com/watch?v=f7TmMBMLJ90&t=0s&list=PL4cUxeGkcC9i0_2FF-WhtRIfIJ1lXlTZR&index=4
 
