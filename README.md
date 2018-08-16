@@ -60,7 +60,8 @@ After much research, I discovered React replaced createClass with createReactCla
 See this link at reactjs.org => https://reactjs.org/blog/2017/04/07/react-v15.5.0.html#migrating-from-reactcreateclass
 
 You need to install the npm create react class package.  From the command line of your project's file path, 
-you need to do  **npm install create-react-class --save**  
+you need to do  
+**npm install create-react-class --save**  
 and then modify the code as follows:
 
 add this line to index.js:  
