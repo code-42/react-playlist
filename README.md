@@ -54,3 +54,17 @@ So, edit your **package.json start and build scripts** to look like this and the
 12. **npm start** should work.  Let me know if you find any errors in this README.
 
 
+# Lesson 4 - Components
+
+After much research, I discovered React replaced createClass with createReactClass in version 16.
+See this link at reactjs.org => https://reactjs.org/blog/2017/04/07/react-v15.5.0.html#migrating-from-reactcreateclass
+
+You need to install the npm create react class package.  From the command line of your project's file path, 
+you need to do **npm install create-react-class --save**, and then modify the code as follows:
+
+add this line to index.js:  
+ **var createReactClass = require('create-react-class');**
+
+
+replace this line: var TodoComponent = React.createClass({
+with this line: **var TodoComponent = createReactClass({**
