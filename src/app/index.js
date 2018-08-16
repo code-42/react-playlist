@@ -6,8 +6,11 @@ var createReactClass = require('create-react-class');
 //var TodoComponent = React.createClass({
 var TodoComponent = createReactClass({
     render: function() {
-        return ( 
-            <h1> Hello there React world! It works!</h1>
+        return (
+            <div>
+                <h1> Hello there React world! </h1>
+                <p>It works!</p>
+            </div>
         );
     }
 });

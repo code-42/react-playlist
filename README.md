@@ -55,7 +55,7 @@ So, edit your **package.json start and build scripts** to look like this and the
 
 
 # Lesson 4 - Components
-
+Following the video tutorial too closely, I was not able to get our very first react component to run.  
 After much research, I discovered React replaced createClass with createReactClass in version 16.
 See this link at reactjs.org => https://reactjs.org/blog/2017/04/07/react-v15.5.0.html#migrating-from-reactcreateclass
 
